@@ -6,7 +6,7 @@
 # 💡 Projeto-Semestral Jogo e site!
 
 ## Proposta de projeto: 
-- Criar um jogo em 1 semestre com um site de apresentação.
+- Criar um jogo em 1 semestre com site de apresentação.
 
 
 ##  Tela inicial:
